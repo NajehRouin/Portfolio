@@ -2,28 +2,9 @@
   Portfolio<br/>
   <h3 >Rouin Najeh</h3>
 </h2>
-<video controls>
-  <source src="./src/Assets/video_protfolio.mp4" autoplay="true" type="video/mp4">
 
-
-   <a href="./src/Assets/video_protfolio.mp4">un lien pour télécharger la vidéo</a>
-</video>
 
 <br/>
-
-
-
-<h1>demo</h1>
-<video controls>
-  <source src="./src/Assets/video_protfolio.mp4" autoplay="true" type="video/mp4">
-
-
-   <a href="./src/Assets/video_protfolio.mp4">un lien pour télécharger la vidéo</a>
-</video>
-
-
-
-
 
 ## Built With
 
@@ -68,4 +49,11 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+<h1>Demo</h1>
+<video>
+  <source src="./src/Assets/video_protfolio.mp4" autoplay="true" type="video/mp4">
+
+
+   <a href="./src/Assets/video_protfolio.mp4">un lien pour télécharger la vidéo</a>
+</video>
 

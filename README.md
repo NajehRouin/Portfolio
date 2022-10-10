@@ -10,10 +10,10 @@
 
 <h1>demo</h1>
 <video controls>
-  <source src="./src/Assets" autoplay="true" type="video/mp4">
+  <source src="./src/Assets/video_protfolio.mp4" autoplay="true" type="video/mp4">
 
 
-   <a href="./src/Assets">un lien pour télécharger la vidéo</a>
+   <a href="./src/Assets/video_protfolio.mp4">un lien pour télécharger la vidéo</a>
 </video>
 
 

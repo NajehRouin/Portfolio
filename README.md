@@ -2,7 +2,12 @@
   Portfolio<br/>
   <h3 >Rouin Najeh</h3>
 </h2>
+<video controls>
+  <source src="./src/Assets/video_protfolio.mp4" autoplay="true" type="video/mp4">
 
+
+   <a href="./src/Assets/video_protfolio.mp4">un lien pour télécharger la vidéo</a>
+</video>
 
 <br/>
 

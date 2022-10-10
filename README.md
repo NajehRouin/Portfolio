@@ -50,10 +50,6 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 <h1>Demo</h1>
-<video>
-  <source src="./src/Assets/video_protfolio.mp4" autoplay="true" type="video/mp4">
+![](./src/Assets/video_protfolio.mp4)
 
-
-   <a href="./src/Assets/video_protfolio.mp4">un lien pour télécharger la vidéo</a>
-</video>
 

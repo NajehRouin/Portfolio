@@ -1,14 +1,23 @@
 <h2 align="center">
   Portfolio<br/>
-  <h3 >Rouin Najeh</h3>
+  
 </h2>
+
 
 
 <br/>
 
 ## Built With
 
-My personal portfolio <h1>Rouin Najeh</h1> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <h1>Rouin Najeh</h1>
+
+# Demo
+
+https://user-images.githubusercontent.com/35218147/195041085-1c1053b4-cb33-43ba-814f-5f7a96de81a1.mp4
+
+
+
+which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -49,7 +58,6 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
-# Demo
-![](./src/Assets/video_protfolio.mp4)
+
 
 
